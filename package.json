@@ -1,0 +1,23 @@
+{
+  "name": "svg-to-string",
+  "version": "1.0.0",
+  "description": "Automation : getting information from svg file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://macaos@github.com/macaos/svg-to-string.git"
+  },
+  "keywords": [
+    "svg",
+    "icon"
+  ],
+  "author": "macaos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/macaos/svg-to-string/issues"
+  },
+  "homepage": "https://github.com/macaos/svg-to-string#readme"
+}
